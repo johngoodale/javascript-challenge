@@ -1,3 +1,5 @@
+Finished product can be seen here: https://johngoodale.github.io/javascript-challenge/.
+
 # javascript-challenge
 Unit 14 | Assignment - JavaScript Homework: JavaScript and DOM Manipulation
 
